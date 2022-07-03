@@ -1,0 +1,52 @@
+.One{
+    background-color: aqua;
+    border: 10px solid black;
+    border-radius: 15px;
+    margin: 40px 20px ;
+    padding: 40px 20px;
+  }
+  .two{
+   background-color: burlywood;
+   border: 10px solid black;
+   border-radius: 15px;
+   margin: 40px 20px ;
+   padding: 40px 20px;
+  }
+  .three{
+   background-color: chartreuse;
+   border: 10px solid black;
+   border-radius: 15px;
+   margin: 40px 20px ;
+   padding: 40px 20px;
+  }
+  .name{
+   color: blueviolet;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 900;
+  }
+  .name1{
+   color: red;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 900;
+  }
+  .name2{
+   color: rgb(60, 12, 136);
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 900;
+  }
+  .title{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bolder;
+   font-size: 2em;
+  }
+  .para{
+   text-align: justify;
+   font-weight: 400 ;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 900;
+   font-size: 1.5em;
+  }
+i{
+    display: grid;
+}
